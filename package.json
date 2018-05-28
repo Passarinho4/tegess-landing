@@ -1,0 +1,27 @@
+{
+  "name": "tegess-landing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Passarinho4/tegess-landing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Passarinho4/tegess-landing/issues"
+  },
+  "homepage": "https://github.com/Passarinho4/tegess-landing#readme",
+  "devDependencies": {
+    "webpack": "^4.9.2",
+    "webpack-cli": "^2.1.4"
+  },
+  "dependencies": {
+    "typed.js": "^2.0.7"
+  }
+}
